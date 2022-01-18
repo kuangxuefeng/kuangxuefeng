@@ -1,8 +1,13 @@
 ### I am xuefeng.kuang 👋
 [博客地址](https://blog.csdn.net/qq_15345551)
 
-![](https://github-readme-stats.vercel.app/api?username=kuangxuefeng)
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=kuangxuefeng&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
+I am a professional Android Developer.
+
+- 🔭 I am starting a business in <b>ShangHai, China.</b>
+- 🌱 I am working in a payment company now..
+- 
 <!--
 **kuangxuefeng/kuangxuefeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-<!-- 
-https://blog.csdn.net/junbaba_/article/details/115320318 
 -->
