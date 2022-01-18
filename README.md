@@ -7,7 +7,7 @@ I am a professional Android Developer.
 
 - 🔭 I am starting a business in <b>ShangHai, China.</b>
 - 🌱 I am working in a payment company now..
-- 
+
 <!--
 **kuangxuefeng/kuangxuefeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
